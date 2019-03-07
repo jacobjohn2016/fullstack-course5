@@ -3,19 +3,19 @@
 This repository contains the answers for the [Single Page Web Applications with AngularJS](https://www.coursera.org/learn/single-page-web-apps-with-angularjs) hosted on [Coursera.org](https://www.coursera.org)
 
 ## My submission
-###[Week 1](https://jacobjohn2016.github.io/fullstack-course5/assignments/assignment1/index.html)
+### [Week 1](https://jacobjohn2016.github.io/fullstack-course5/assignments/assignment1/index.html)
 _[Source code](https://github.com/jacobjohn2016/fullstack-course5/tree/master/assignments/assignment1)_
 
-###[Week 2](https://jacobjohn2016.github.io/fullstack-course5/assignments/assignment2/)
+### [Week 2](https://jacobjohn2016.github.io/fullstack-course5/assignments/assignment2/)
 _[Source code](https://github.com/jacobjohn2016/fullstack-course5/tree/master/assignments/assignment2)_
 
-###[Week 3](https://jacobjohn2016.github.io/fullstack-course5/assignments/assignment3/)
+### [Week 3](https://jacobjohn2016.github.io/fullstack-course5/assignments/assignment3/)
 _[Source code](https://github.com/jacobjohn2016/fullstack-course5/tree/master/assignments/assignment3)_
 
-###[Week 4](https://jacobjohn2016.github.io/fullstack-course5/assignments/assignment4/index.html#!/)
+### [Week 4](https://jacobjohn2016.github.io/fullstack-course5/assignments/assignment4/index.html#!/)
 _[Source code](https://github.com/jacobjohn2016/fullstack-course5/tree/master/assignments/assignment4)_
 
-###[Week 5](https://jacobjohn2016.github.io/fullstack-course5/assignments/assignment5/index.html#/)
+### [Week 5](https://jacobjohn2016.github.io/fullstack-course5/assignments/assignment5/index.html#/)
 _[Source code](https://github.com/jacobjohn2016/fullstack-course5/tree/master/assignments/assignment5)_
 
 ## Customer Website Launched
