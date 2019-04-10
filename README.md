@@ -1,6 +1,6 @@
 # Course: Single Page Web Applications with AngularJS
 
-This repository contains the answers for the [Single Page Web Applications with AngularJS](https://www.coursera.org/learn/single-page-web-apps-with-angularjs) hosted on [Coursera.org](https://www.coursera.org)
+This repository contains the answers for the [Single Page Web Applications with AngularJS](https://www.coursera.org/learn/single-page-web-apps-with-angularjs) by Johns Hopkins University (JHU) hosted on [Coursera.org](https://www.coursera.org)
 
 ## My submission
 ### [Week 1](https://jacobjohn2016.github.io/fullstack-course5/assignments/assignment1/index.html)
