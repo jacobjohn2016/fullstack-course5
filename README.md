@@ -3,34 +3,35 @@
 This repository contains the answers for the [Single Page Web Applications with AngularJS](https://www.coursera.org/learn/single-page-web-apps-with-angularjs) by Johns Hopkins University (JHU) hosted on [Coursera.org](https://www.coursera.org)
 
 ## My submission
-### [Week 1](https://jacobjohn2016.github.io/fullstack-course5/assignments/assignment1/index.html)
-_[Source code](https://github.com/jacobjohn2016/fullstack-course5/tree/master/assignments/assignment1)_
+
+### [Week 1](assignments/assignment1/index.html)
+_[Source code](assignments/assignment1)_
 <p align="center">
-    <img src="https://raw.githubusercontent.com/jacobjohn2016/fullstack-course5/master/Images/1.png" width="750" alt="1">
+    <img src="Images/1.png" width="750" alt="1">
 </p>
 
-### [Week 2](https://jacobjohn2016.github.io/fullstack-course5/assignments/assignment2/)
-_[Source code](https://github.com/jacobjohn2016/fullstack-course5/tree/master/assignments/assignment2)_
+### [Week 2](assignments/assignment2/)
+_[Source code](assignments/assignment2)_
 <p align="center">
-    <img src="https://raw.githubusercontent.com/jacobjohn2016/fullstack-course5/master/Images/2.png" width="750" alt="2">
+    <img src="Images/2.png" width="750" alt="2">
 </p>
 
-### [Week 3](https://jacobjohn2016.github.io/fullstack-course5/assignments/assignment3/)
-_[Source code](https://github.com/jacobjohn2016/fullstack-course5/tree/master/assignments/assignment3)_
+### [Week 3](assignments/assignment3/)
+_[Source code](assignments/assignment3)_
 <p align="center">
-    <img src="https://raw.githubusercontent.com/jacobjohn2016/fullstack-course5/master/Images/3.png" width="750" alt="3">
+    <img src="Images/3.png" width="750" alt="3">
 </p>
 
-### [Week 4](https://jacobjohn2016.github.io/fullstack-course5/assignments/assignment4/index.html#!/)
-_[Source code](https://github.com/jacobjohn2016/fullstack-course5/tree/master/assignments/assignment4)_
+### [Week 4](assignments/assignment4/index.html#!/)
+_[Source code](assignments/assignment4)_
 <p align="center">
-    <img src="https://raw.githubusercontent.com/jacobjohn2016/fullstack-course5/master/Images/4.png" width="750" alt="4">
+    <img src="Images/4.png" width="750" alt="4">
 </p>
 
-### [Week 5](https://jacobjohn2016.github.io/fullstack-course5/assignments/assignment5/index.html#/)
-_[Source code](https://github.com/jacobjohn2016/fullstack-course5/tree/master/assignments/assignment5)_
+### [Week 5](assignments/assignment5/index.html#/)
+_[Source code](assignments/assignment5)_
 <p align="center">
-    <img src="https://raw.githubusercontent.com/jacobjohn2016/fullstack-course5/master/Images/5.png" width="750" alt="5">
+    <img src="Images/5.png" width="750" alt="5">
 </p>
 
 ## Customer Website Launched
